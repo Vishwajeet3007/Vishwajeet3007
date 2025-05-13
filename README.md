@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Vishwajeet3007
 
 - 👀 I’m interested in **AI/ML, Data Engineering, and Startup Innovation**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, and System Design**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and NLP**
 - 💞️ I’m looking to collaborate on **AI-driven SaaS tools, Chrome Extensions, and Open Source Projects**
 - 📫 Reach me:  
   📧 [vishwa843113@gmail.com](mailto:vishwa843113@gmail.com)  
