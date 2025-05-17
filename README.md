@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Vishwajeet3007
+# 👋 Hi, I’m Vishwajeet Kumar
 
 - 👀 I’m interested in **AI/ML, Data Engineering, and Startup Innovation**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and NLP**
